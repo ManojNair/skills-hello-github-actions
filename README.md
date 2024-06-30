@@ -8,6 +8,8 @@ _Create and run a GitHub Actions workflow._
 
 ## Step 5: Trigger the workflow
 
+My code is such a great code
+
 _You've now added a fully functioning workflow to your repository! :smile:_
 
 😸
